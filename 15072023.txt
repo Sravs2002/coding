@@ -1,0 +1,17 @@
+n=int(input())
+
+for i in range(10,0,-1):
+
+     print(n,"*",i,"=",n*i)
+--------------------------------
+s="python"
+
+print(s[:2])
+
+n="svrec"
+
+print(n[:3])
+
+p="college"
+
+print(p[4:7])
