@@ -1,3 +1,6 @@
+vehicles=200
+wheels=540
+find number of 2wheelers,4wheelers
 w=540
 
 v=200
